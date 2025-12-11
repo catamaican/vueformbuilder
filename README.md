@@ -62,7 +62,3 @@ See Vueform Builder in action: [demo](https://builder.vueform.com/demo?cid=build
   <a href="https://www.linkedin.com/company/vueform" target="_blank"><img src="https://raw.githubusercontent.com/vueform/builder/main/.github/assets/linkedin.svg" alt="Vueform on LinkedIn" title="Vueform on LinkedIn"></a>&nbsp;&nbsp;
   <a href="https://github.com/vueform" target="_blank"><img src="https://raw.githubusercontent.com/vueform/builder/main/.github/assets/github.svg" alt="Vueform on GitHub" title="Vueform on GitHub"></a>
 </p>
-
-## License
-
-[LICENSE](https://vueform.com/license-agreement?cid=builder)
